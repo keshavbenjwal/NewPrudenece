@@ -560,14 +560,14 @@ form {
     background: rgba(0, 0, 0, 0) url("../images/work_us.jpg") no-repeat scroll 0 0 / 100% 100%;
     margin-top: 160px;
     padding-bottom: 40px;
-    min-height: 550px;
+    min-height: 310px;
     border-bottom: 2px solid #e46e48;
 }
 .work_content {
     color: #fff;
     font-size: 24px;
     line-height: 36px;
-    margin-top: 165px;
+    margin-top: 41px;
 }
 .work_us_btn {
     margin-top: 40px;
